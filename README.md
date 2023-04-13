@@ -4,7 +4,9 @@ Universidad Nacional de Colombia - Sede Medellín
 
 Integrantes:
 Juan Pablo Buitrago.
+
 Jorge Andrés Higuita Monsalve.
+
 Daniel Arango Villegas.
 
 Profesor: Juan David Ospina Arango
