@@ -2,6 +2,8 @@
 Repositorio que contiene el codigo usado para el primer trabajo de Redes Neuronales y Algoritmos bioinspirados 
 Universidad Nacional de Colombia - Sede Medellín
 
+Link de la entrada: https://oyeu.github.io/Trabajo1-Optimizaci-n-heuristica/Optimizacion%20Heuristica.html
+
 Integrantes:
 Juan Pablo Buitrago.
 
